@@ -14,7 +14,7 @@ about:
   links:
     - icon: sun
       text: DeepPolicyLab
-      href: https://phyruihao.github.io
+      href: https://deeppolicylab.github.io
       target: _blank
     - icon: globe
       text: CUNYprofile
