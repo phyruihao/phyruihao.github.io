@@ -87,19 +87,10 @@ Ruio Liao is an AI researcher and doctoral candidate whose work lies at the inte
 
 :::
 
-## Research Interests
+## Recent Posts
+Check out the latest &nbsp;[Papers](posts.qmd#category=paper)&nbsp;, &nbsp;[News](posts.qmd#category=news)&nbsp;, &nbsp;[Events](posts.qmd#category=event)&nbsp;, and &nbsp;[More »](/posts.qmd)
 
+:::{#recent-posts}
 :::
 
-## News
-
-:::
-
-:::
-
-## Publications
-
-:::
-
-## Awards
-:::
+<p align="right">[All Posts »](/posts.qmd)</p>
